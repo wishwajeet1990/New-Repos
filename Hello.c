@@ -12,5 +12,6 @@ int featurec()
 {
 	printf("This is %s function \n",__func__);
 	printf("new line added 1\n");
+	printf("new line added 2\n");
 	return 0;
 }
